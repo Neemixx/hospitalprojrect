@@ -1,0 +1,82 @@
+*{
+    background-color: yellowgreen;
+}
+#home{
+    
+    font-size: 20px;
+    color: #001FFF;
+}
+span{
+    font-style: bold;
+}
+a{
+    text-decoration: none;
+    color:#ff0707;
+}
+#menu{
+    font-size:50;
+    font-style:italic,
+    background-coloryellowgre;
+    
+}
+#infos{
+    background-color:yellowgreen;
+}
+#services{
+    background-color:yellowgreen;
+}
+.appelus{
+    color:teal;
+    background-color:yellowgreen;
+}
+.oh{
+    font-weight: bold;
+    color:blue;
+    background-color:yellowgreen;
+}
+#application{
+    font-size:20px;
+    background-color:yellowgreen;
+}
+.pro{
+    padding-left: 250px ;
+    font-size: 25px;
+    font-weight:bold;
+    color: blue;
+    background-color: yellowgreen;
+}
+#back{
+    background-color: yellowgreen;
+}
+#no{
+    background-color: white ;
+}
+.image{
+    position:relative ;
+    left: 400px;
+    background-color: yellowgreen;
+}
+input{
+    background-color: white;
+}
+.imag{
+    position:relative ;
+    left: 400px;
+    background-color: yellowgreen;
+}
+
+.img{
+    position: absolute ;
+    left: 400px;
+    background-color: yellowgreen;
+}
+#news{
+    font-size:25px;
+    color:blue;
+    background-color: yellowgreen;
+}
+#facts{
+    font-size:20px;
+    font-weight:bold;
+    font-style:italic;
+}
